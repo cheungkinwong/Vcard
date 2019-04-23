@@ -1,3 +1,22 @@
 body {
-  font: Luscida sans;
+  font-family: "Lucida Sans", "Lucida Sans Regular", Geneva, Verdana, sans-serif;
+  font-size: 16pt;
+  margin: 150pt;
+  background-image: url(clouds-cold-dark-540518.jpg);
+  background-color: darkblue;
+  background-size: auto;
+}
+.firstname {
+  font-size: 20pt;
+  color: darkblue;
+}
+.familyname {
+  font-size: 20pt;
+  color: darkblue;
+}
+.info {
+  margin: 15%;
+  padding: 2%;
+  background-image: linear-gradient(white, gray);
+  opacity: 0.5;
 }
