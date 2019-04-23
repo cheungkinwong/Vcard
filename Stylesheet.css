@@ -47,11 +47,13 @@ img {
 /* unvisited link */
 a:link {
   color: rgb(219, 219, 250);
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
   color: rgb(219, 219, 250);
+  text-decoration: none;
 }
 
 /* mouse over link */
