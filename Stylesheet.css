@@ -4,6 +4,8 @@ body {
   background-image: url(clouds-cold-dark-540518.jpg);
   background-color: darkblue;
   background-size: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: rgb(219, 219, 250);
   margin: 15pt;
 }
